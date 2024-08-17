@@ -58,10 +58,6 @@
 </html>
 ```
 
-  # Output:
-    ![image](https://github.com/user-attachments/assets/d1a9f58f-13de-45fa-81b3-4e1de328b665)
-
-
-
   # Result:
+  
     The program was successfully executed.
