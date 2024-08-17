@@ -59,8 +59,8 @@
 ```
 
   # Output:
-    ![image](https://github.com/user-attachments/assets/3c99a8ad-6a6f-46f8-b9f4-4d6bdd9c0dd7)
-    ![image](https://github.com/user-attachments/assets/892996b8-f64c-4467-94dd-5e34daef4daf)
+    ![image](https://github.com/user-attachments/assets/d1a9f58f-13de-45fa-81b3-4e1de328b665)
+
 
 
   # Result:
